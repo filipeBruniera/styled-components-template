@@ -9,7 +9,7 @@ export function Garagem(props) {
       <Carro adicionadoPor={props.nome} cor={"Vermelho"} ano={2022} flex />
       <Carro adicionadoPor={props.nome} cor={"Verde"} ano={2020} flex />
       <Carro adicionadoPor={props.nome} cor={"Amarelo"} ano={2009} />
-      <Carro adicionadoPor={props.nome} cor={"Rosa"} ano={2022} />
+      <Carro adicionadoPor={props.nome} cor={"Pink"} ano={2022} />
     </div>
   );
 }
